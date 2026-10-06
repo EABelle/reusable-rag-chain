@@ -1,4 +1,4 @@
-# RAG Demo
+# Reusable RAG Chain
 
 A small Retrieval-Augmented Generation (RAG) example built with LangChain, Chroma, and OpenAI. It reads a text file, splits it into chunks, embeds them into an in-memory Chroma vector store, and answers questions using the most relevant chunks.
 
